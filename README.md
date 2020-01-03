@@ -15,8 +15,12 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 # <p align="center">Pembahasan Program</p>
 Berikut adalah dictionary yang di definisikan terlebih dahulu :
       ``data = {} ``
+      
 Selanjutnya adalah perulangan yang digunakan :
+      
       ``while True :\n
             statemen``
+
 selanjutnya adalah membuat fungsi input data :
-    
+![1k](https://user-images.githubusercontent.com/56942922/71726925-2e37ab00-2e6b-11ea-9d54-6b0130f0f715.png)
+
