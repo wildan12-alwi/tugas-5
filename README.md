@@ -14,21 +14,9 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 * Commit dan push repository ke github.
 # <p align="center">Pembahasan Program</p>
 Berikut adalah dictionary yang di definisikan terlebih dahulu :
-
-``data = {} ``
+      ``data = {} ``
 Selanjutnya adalah perulangan yang digunakan :
-``while True :\n
-      statemen``
+      ``while True :\n
+            statemen``
 selanjutnya adalah membuat fungsi input data :
-
-  `` def input_data(): 
-      nama = input("Nama: ")
-      nim = input("NIM: ")
-      tugas = int(input ("Nilai Tugas : "))
-    uas = int(input("Nilai UAS : "))
-    uts = int(input("Nilai UTS : "))
-    a = tugas * 30 / 100
-    b = uas * 35 / 100
-    c = uts * 35 /100
-    akhir = a + b + c``
     
