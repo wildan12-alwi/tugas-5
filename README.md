@@ -22,8 +22,12 @@ Selanjutnya adalah perulangan yang digunakan :
       while True :
             statment
             
-selanjutnya adalah membuat fungsi input data :
+selanjutnya adalah membuat fungsi input data (Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS,) :
 
 ![1k](https://user-images.githubusercontent.com/56942922/71726925-2e37ab00-2e6b-11ea-9d54-6b0130f0f715.png)
 
-Memanggil fungsi :
+Mebuat Fungsi Lihat Data :
+
+![c](https://user-images.githubusercontent.com/56942922/71778246-e84f2400-2fdd-11ea-9273-cc13d2b71040.png)
+
+
