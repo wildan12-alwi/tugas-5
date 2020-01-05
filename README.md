@@ -49,3 +49,6 @@ memanggil fungsi Input data :
 Data belum diinput :
 
 <img width="371" alt="6" src="https://user-images.githubusercontent.com/56942922/71778534-cfe10880-2fe1-11ea-99bc-f8b92e669144.png">
+      Sudah Ada data :
+<img width="375" alt="2" src="https://user-images.githubusercontent.com/56942922/71778580-47af3300-2fe2-11ea-86b0-187a7b8a3cdb.png">
+# 3. Cari data
