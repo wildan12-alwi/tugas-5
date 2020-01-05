@@ -37,3 +37,15 @@ Mebuat Fungsi Lihat Data :
 # OUTPUT
 ![lihat](https://user-images.githubusercontent.com/56942922/71778384-c22a8380-2fdf-11ea-842c-3b58ace3f973.png)
 
+# 1. Tambah Data
+memanggil fungsi Input data :
+
+![tambah](https://user-images.githubusercontent.com/56942922/71778455-a1166280-2fe0-11ea-87eb-4c7b8ca6ceb8.png)
+# output
+![OT](https://user-images.githubusercontent.com/56942922/71778484-12561580-2fe1-11ea-897c-c8d6a60a1801.png)
+# 2. Lihat Data
+![3k](https://user-images.githubusercontent.com/56942922/71778516-7973ca00-2fe1-11ea-9963-445632459f65.png)
+# OUTPUT
+Data belum diinput :
+
+<img width="371" alt="6" src="https://user-images.githubusercontent.com/56942922/71778534-cfe10880-2fe1-11ea-99bc-f8b92e669144.png">
