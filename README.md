@@ -32,7 +32,7 @@ kodingan untuk menampilkan inputan data, ``if`` sebagai pembandin ketika data be
 
 ![c](https://user-images.githubusercontent.com/56942922/71778246-e84f2400-2fdd-11ea-9273-cc13d2b71040.png)
 
-## Membuat sebuah program Tambah Data, Ubah Data, Lihat Data, Hapus Data, Cari Data, Keluar.
+# Membuat sebuah program Tambah Data, Ubah Data, Lihat Data, Hapus Data, Cari Data, Keluar.
 
 ![p](https://user-images.githubusercontent.com/56942922/71778328-09fcdb00-2fdf-11ea-9a7b-f9a484ef90b4.png)
 # OUTPUT
@@ -54,19 +54,26 @@ memaggil fungsi dengan ``cetak(data)`` sehingga data yg nanti sudah diinput akan
 <img width="375" alt="2" src="https://user-images.githubusercontent.com/56942922/71778580-47af3300-2fe2-11ea-86b0-187a7b8a3cdb.png">
 # 3. Cari data
 kodingan untuk mencari data yg terinput sebelumnya :
+
 ![cari data](https://user-images.githubusercontent.com/56942922/71810851-e81a5b80-30a5-11ea-99f2-9c91e284f47f.png)
       dimana mencari data dengan format nama yang telah diinputkan diatas
 # OUTPUT
 <img width="308" alt="4" src="https://user-images.githubusercontent.com/56942922/71810979-34fe3200-30a6-11ea-869a-07302af79398.png">
 # 4. Mengubah Data
 Perintah dijalankan jika input yang di masukan adalah u, di dalam kondisi ini terdapat input dan kondisi, dimana jika input nama ada di dalam variabel daftar.keys maka akan muncul beberapa pilihan untuk mengubah semua data atau data tertentu saja.
+
 ![Ubah](https://user-images.githubusercontent.com/56942922/71811212-b3f36a80-30a6-11ea-9c9c-00dd33aaeb91.png)
 # OUTPUT
 <img width="297" alt="1" src="https://user-images.githubusercontent.com/56942922/71811305-ea30ea00-30a6-11ea-82ac-1ac62b0fa3eb.png">
 # 5.Hapus Data
 Data yang di hapus adalah data yang di input dalam variabel nama dimana berisi nama (string) yang mewakili data NIM, Nilai Tugas, UTS dan UAS.
+
 ![hapus data](https://user-images.githubusercontent.com/56942922/71811442-485dcd00-30a7-11ea-94d2-f20e2cb553e9.png)
 # OUTPUT
 ![h](https://user-images.githubusercontent.com/56942922/71811615-bf936100-30a7-11ea-8c7c-2858d4a278c2.png)
 
-
+# 6.Mengakhiri Program diatas
+Perulangan di atas adalah perulangan yang akan berjalan terus menerus, dan akan berhenti jika kode berikut di eksekusi :
+![break](https://user-images.githubusercontent.com/56942922/71811960-8e676080-30a8-11ea-931d-5495dedfa20d.png)
+# OUTPUT
+![ok](https://user-images.githubusercontent.com/56942922/71812121-f61dab80-30a8-11ea-828a-01b766780294.png)
