@@ -44,11 +44,11 @@ memanggil fungsi Input data :
 # output
 ![OT](https://user-images.githubusercontent.com/56942922/71778484-12561580-2fe1-11ea-897c-c8d6a60a1801.png)
 # 2. Lihat Data
+kodingan untuk menampilkan inputan data, ``if`` sebagai pembandin ketika data belum terinput maka akan menampilkan ``Belum ada data terinput`` dan ``else`` untuk menampilkan data yang sudah terinputkan ``no=1`` memulai penomoran dimulai dari angka 1 dan ``no +=1`` untuk setiap penomoran di tambahkan 1 sebanyak data yang diinputkan
 ![3k](https://user-images.githubusercontent.com/56942922/71778516-7973ca00-2fe1-11ea-9963-445632459f65.png)
 # OUTPUT
-Data belum diinput :
-
+      Data belum diinput :
 <img width="371" alt="6" src="https://user-images.githubusercontent.com/56942922/71778534-cfe10880-2fe1-11ea-99bc-f8b92e669144.png">
-      Sudah Ada data :
+      Tampilan data sudah diinput :
 <img width="375" alt="2" src="https://user-images.githubusercontent.com/56942922/71778580-47af3300-2fe2-11ea-86b0-187a7b8a3cdb.png">
 # 3. Cari data
