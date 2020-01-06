@@ -56,9 +56,11 @@ memaggil fungsi dengan ``cetak(data)`` sehingga data yg nanti sudah diinput akan
 kodingan untuk mencari data yg terinput sebelumnya :
 
 ![cari data](https://user-images.githubusercontent.com/56942922/71810851-e81a5b80-30a5-11ea-99f2-9c91e284f47f.png)
-      dimana mencari data dengan format nama yang telah diinputkan diatas
+
+dimana mencari data dengan format nama yang telah diinputkan diatas
 # OUTPUT
 <img width="308" alt="4" src="https://user-images.githubusercontent.com/56942922/71810979-34fe3200-30a6-11ea-869a-07302af79398.png">
+
 # 4. Mengubah Data
 Perintah dijalankan jika input yang di masukan adalah u, di dalam kondisi ini terdapat input dan kondisi, dimana jika input nama ada di dalam variabel daftar.keys maka akan muncul beberapa pilihan untuk mengubah semua data atau data tertentu saja.
 
