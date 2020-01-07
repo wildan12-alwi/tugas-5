@@ -12,6 +12,9 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 * Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 * Buat flowchart dan penjelasan programnya pada README.md.
 * Commit dan push repository ke github.
+
+![Drawing1](https://user-images.githubusercontent.com/56942922/71901271-3442ca00-3192-11ea-802b-5e0d2629a20d.gif)
+
 # <p align="center">Pembahasan Program</p>
 Berikut adalah dictionary yang di definisikan terlebih dahulu :
 
